@@ -1,3 +1,5 @@
+![kwitansi](assets/preview.png)
+
 # kwitansi
 
 Invoices for Indonesian sellers and freelancers, with the one feature
